@@ -17,6 +17,7 @@ This guide covers the steps to:
 ## Architecture
 
 ![Architecture diagram](k8s-kind-voting-app.png)
+(architecture.excalidraw.png)
 
 ## Observability
 
