@@ -32,7 +32,7 @@ This guide covers the steps to:
 
 
 
-## Resume Description
+## Project Description
 
 ### Project Title: 
 
